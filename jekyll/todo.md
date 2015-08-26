@@ -10,6 +10,6 @@ This blog is currently a pretty bare bones install of the most excellent [jekyll
 * Support a tags and category page, including a tag cloud
 * Install an archive tree
 * Integrate [my twitter feed](https://twitter.com/yatesco)
-* Integrate [Diqcus](https://disqus.com)
+* **DONE** Integrate [Diqcus](https://disqus.com)
 * Integrate this into my emacs workflow
 * Automatically generate a sitemap.xml
