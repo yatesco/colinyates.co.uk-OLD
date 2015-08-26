@@ -1,4 +1,4 @@
-This is the git repository of my blog; [http://colin.yatesbunch.co.uk](http://colin.yatesbunch.co.uk).
+This is the git repository of my blog; [http://colinyates.co.uk](http://colinyates.co.uk).
 
 It is build using jekyll:
 
