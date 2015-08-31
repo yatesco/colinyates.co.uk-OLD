@@ -1,0 +1,9 @@
+* About
+The repository and 'build framework' for [[http://colinyates.co.uk]].
+
+The goal is to be able to create posts in emacs and then publish them to the jekyll site. 
+
+/org contains the org posts and relevant plumbing
+/jekyll contains the jekyll infrastructure and is the 'root' of the jekyll site
+
+This is woefully under cooked at the moment so if you are looking for inspiration, probably best looking elsewhere, at least for now ;-).

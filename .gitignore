@@ -4,3 +4,4 @@ jekyll/_site/
 *.swp
 /*.scssc
 /jekyll/.sass-cache/*
+/jekyll/_posts/*
