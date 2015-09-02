@@ -1,19 +1,19 @@
-#+BEGIN_SRC html
+#+BEGIN_HTML
 ---
 layout: post
 title: "Cough, cough, sick, sick"
 date: 2015-08-28 16:24
-tags: 
+tags:
  - sick
  - blog
 ---
-#+END_SRC
+#+END_HTML
 
 Unfortunately we (family) have all been under the weather with different grades of sickness. My wife, and now me have a pretty nasty stomach bug which also seems to attack the throat. The kids are all much better but are generally very tired.
 
 Not nice.
 
-All of this is to say that my new-found blog isn't getting off to the best start. 
+All of this is to say that my new-found blog isn't getting off to the best start.
 
 As the pastor of my [[http://trinitylifechurch.org.uk/][church]] likes to say:
 

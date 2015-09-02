@@ -1,15 +1,15 @@
-#+BEGIN_SRC html
+#+BEGIN_HTML
 ---
 layout: post
 title: "Blogging with jekyll, hexo, emacs and org"
 date: 2015-08-26 20:32
-tags: 
+tags:
  - emacs
  - jekyll
  - org-mode
  - blog
 ---
-#+END_SRC
+#+END_HTML
 
 * Moan, moan, moan
 This is really just a moan, move on - there are almost certainly better things to do with your life.
@@ -18,7 +18,7 @@ Still here? Ok, you have been warned.
 
 * Blogging, blogging, blogging
 
-I rate [[https://www.gnu.org/software/emacs/][emacs]], it really can seem to do anything, as long as you are happy to build your own editor on top of it. 
+I rate [[https://www.gnu.org/software/emacs/][emacs]], it really can seem to do anything, as long as you are happy to build your own editor on top of it.
 
 I also rate [[http://orgmode.org][org-mode]], which can also seem to do anything, and [[http://daringfireball.net/projects/markdown/][markdown]] which is a _much_ saner way to create content that end up in HTMLs. And of course [[http://orgmode.org/manual/Publishing.html][org-mode can publish docs]].
 
@@ -51,7 +51,7 @@ Well, turns out that when hosted on =github pages= you can't use plugins. Ok, fi
 
 and so on.
 
-Jekyll does support [[http://jekyllrb.com/docs/plugins/][plugins]] but they aren't enabled when using =github pages=. There are some pretty neat people out there who have achieved some of the above capabilities using [[https://github.com/Shopify/liquid/wiki][liquid]] which =jekyll= uses for [[http://jekyllrb.com/docs/templates/][templating]], for example [[https://duckduckgo.com/?q%3Djekyll%2520liquid%2520tags][here are some]]. 
+Jekyll does support [[http://jekyllrb.com/docs/plugins/][plugins]] but they aren't enabled when using =github pages=. There are some pretty neat people out there who have achieved some of the above capabilities using [[https://github.com/Shopify/liquid/wiki][liquid]] which =jekyll= uses for [[http://jekyllrb.com/docs/templates/][templating]], for example [[https://duckduckgo.com/?q%3Djekyll%2520liquid%2520tags][here are some]].
 
 The problem is I can't seem to get them to work. I also can't seem to get any of the [[https://duckduckgo.com/?q%3Djekyll%2520tag%2520plugin][plugin based ones]] to work either.
 
@@ -59,9 +59,9 @@ Is it me? Probably :-), and I confess I haven't spent more than a couple of hour
 
 * Emacs to the rescue
 
-Moving on, at least I can look forward to using =emacs= and =org-mode= to integrate with =jekyll=. Look, there are even [[http://orgmode.org/worg/org-tutorials/org-jekyll.html][official instructions]]. Except that assumes you have already configured the beast that is =org-mode publishing=. 
+Moving on, at least I can look forward to using =emacs= and =org-mode= to integrate with =jekyll=. Look, there are even [[http://orgmode.org/worg/org-tutorials/org-jekyll.html][official instructions]]. Except that assumes you have already configured the beast that is =org-mode publishing=.
 
-Surely there must be an easier HOWTO? Well there [[https://duckduckgo.com/?q%3Dorg%2520mode%2520jekyll][seems to be lots]] only none of those seem to work either! 
+Surely there must be an easier HOWTO? Well there [[https://duckduckgo.com/?q%3Dorg%2520mode%2520jekyll][seems to be lots]] only none of those seem to work either!
 
 Again, is it me? Again, I only spent a few hours on this, but compared to the 5 minutes I spent bootstrapping =jekyll= and creating my first blog post, I am shocked that this stuff is so hard.
 
@@ -79,7 +79,7 @@ Well, I didn't want to depend on GitHub and Octopress is based on jekyll. Off to
 
 * Hexo
 
-[[https://hexo.io][Hexo]] is about as simple as jekyll to get started, and out of the box it supports all the various gadgetry that I want. 
+[[https://hexo.io][Hexo]] is about as simple as jekyll to get started, and out of the box it supports all the various gadgetry that I want.
 
 Posts are written in =markdown= with a little big of ceremony at the top, similar to jekyll.
 
@@ -95,4 +95,4 @@ Yeah, I know.
 
 Anyway, that is the end of my moan. Thanks for reading and hopefully the rest of the posts on this blog will be a bit more educational and upbeat, but please do be prepared for this blog to grow organically as I get used to jekyll ;-).
 
-Bye all. 
+Bye all.
